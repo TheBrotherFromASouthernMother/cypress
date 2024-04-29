@@ -76,7 +76,6 @@ const DEFAULT_ARGS = [
   '--disable-renderer-throttling',
   '--disable-backgrounding-occluded-windows',
   '--disable-restore-session-state',
-  '--disable-new-profile-management',
   '--disable-new-avatar-menu',
   '--allow-insecure-localhost',
   '--reduce-security-for-testing',

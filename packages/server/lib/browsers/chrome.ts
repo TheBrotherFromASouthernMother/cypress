@@ -69,7 +69,6 @@ const DEFAULT_ARGS = [
   '--enable-fixed-layout',
   '--disable-popup-blocking',
   '--disable-password-generation',
-  '--disable-single-click-autofill',
   '--disable-prompt-on-repos',
   '--disable-background-timer-throttling',
   '--disable-renderer-backgrounding',
@@ -81,6 +80,7 @@ const DEFAULT_ARGS = [
   '--reduce-security-for-testing',
   '--enable-automation',
   '--enable-features=PaymentRequest',
+  '--disable-web-security',
   '--disable-print-preview',
   '--disable-component-extensions-with-background-pages',
 

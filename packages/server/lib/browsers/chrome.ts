@@ -80,6 +80,7 @@ const DEFAULT_ARGS = [
   '--allow-insecure-localhost',
   '--reduce-security-for-testing',
   '--enable-automation',
+  '--enable-features=PaymentRequest',
   '--disable-print-preview',
   '--disable-component-extensions-with-background-pages',
 
